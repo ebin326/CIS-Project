@@ -1,5 +1,5 @@
 # CIS 2334 Project (3 parts)
-This was a projects that I completed in CIS 2334 at UH. From this assigment/project i was able to gain a greater understanding of MySQL and Microsoft Excel.
+This was a projects that I completed in CIS 2334 at UH. From this assignment/project I was able to gain a greater understanding of MySQL and Microsoft Excel.
 # Part 1
 ###### visit `Project - Part 1.pdf` to view assigment details
 Part one consisted of using MySql to break down the large data sheet into usable infomation. 
